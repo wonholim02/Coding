@@ -1,3 +1,3 @@
-#Coding Practicies
+# Coding Practicies
 
-##This project contains the various practicing codes for several programming languages.
+## This project contains the various practicing codes for several programming languages.
