@@ -4,7 +4,7 @@
 
 ## Programming Languages
 * Java
- * AP Computer Science
+  * AP Computer Science
 * Python 
 * Java Script
 
