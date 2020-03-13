@@ -1,8 +1,9 @@
-/* Name: Chris Lim 21221
-Class:APCS Section C
+/************************************************************************************* 
+Name: Wonho Lim
 Description: This code prints out longest word that was typed by using sentinel value.
 The program ifinifely repeats until the user put goodbye as a input. After user type
-goodbye, it will show length of greatest string that user have printed. */
+goodbye, it will show length of greatest string that user have printed. 
+**************************************************************************************/
 
 //import scanner for the program
 import java.util.Scanner;
