@@ -1,8 +1,6 @@
 /***************************************************************************** 
 Name: Wonho Lim 
-Class: APCS Section C 
-Date: 28 September 2019 
-Description: This get the int array and find the median of them by sorting.
+Description: This gets the int array and find the median of them by sorting.
 *****************************************************************************/ 
 import java.util.Arrays; //to sort array late, import array
 
