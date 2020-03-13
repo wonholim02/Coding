@@ -1,6 +1,5 @@
 /**********************************************************************************************
 Name: Wonho Lim 
-Class: APCS Section C 
 Description: This program is a client code that uses method from GameBoard to make a game.
 **********************************************************************************************/
 import java.util.Scanner; 
