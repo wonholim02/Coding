@@ -1,11 +1,10 @@
-/*
+/********************************************************************************************************
 Name: Wonho Lim
-Class: APCS Section C
 Description: This program is a mini game which interacts with player. The program pick a random integer 
 asks the user guesses the number correctly. If the user gives incorrect value, the program shows whether 
 guessed number is higher or lower. If the user gets the correct answer, the program asksuser whether they 
 want to keep playing or not. Finally, after the user stops, the program shows the overall result of games. 
-*/
+********************************************************************************************************/
 
 //importing Scanner from java.util
 import java.util.Scanner; 
