@@ -1,3 +1,7 @@
+/********************************************************
+Name:Wonho Lim
+This program calculates the total price and prints recipet
+*********************************************************/
 public class Receipt{
    public static void main (String[] args) {
       //Calculate total owed, assuming 8% tax / 15% tip
