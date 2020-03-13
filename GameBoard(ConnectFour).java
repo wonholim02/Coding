@@ -1,8 +1,7 @@
 /**********************************************************************************************
 Name: Wonho Lim 
 Class: APCS Section C 
-Date: 1 Decemeber 2019 
-Description: This program contains the method that the client code can use to conduct the game
+Description: This program contains the methods that the client code can use to conduct the game
 **********************************************************************************************/ 
 public class GameBoard{
    //making fields
