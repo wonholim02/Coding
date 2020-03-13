@@ -1,6 +1,6 @@
 # Coding **Practicies / Projects**
 
-### This project contains the various practicing codes for several programming languages.
+### This project contains the various codes that I wrote with several programming languages.
 
 ## Programming Languages
 * Java
