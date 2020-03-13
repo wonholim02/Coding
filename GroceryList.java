@@ -1,6 +1,5 @@
 /**********************************************************************************************
 Name: Wonho Lim 
-Class: APCS Section C 
 Description: This program help user to add, remove, replace, display the grocery list as long
 as they want and then quit if they want to.
 **********************************************************************************************/ 
