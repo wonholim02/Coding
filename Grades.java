@@ -60,20 +60,17 @@ public class Grades {
 		System.out.println();//blank	
 		System.out.println("Exam 1: "); //exam 1
 		double exam1 = examCheck(in); //get the value of exam 1
-		
-      System.out.println();//blank
-      System.out.println("Exam 2: "); //exam 2
+      		System.out.println();//blank
+     		System.out.println("Exam 2: "); //exam 2
 		double exam2 = examCheck(in); //get the value of exam 2
-		
-      double exams = exam1 + exam2; //sum up
-		
-      return exams; //return the weighted exam scores
+      		double exams = exam1 + exam2; //sum up
+		return exams; //return the weighted exam scores
 	}   
 
 	// This is a method that asks about the homework and prints out the weighted score.
 	public static double homework(Scanner in) {
 		//these are variables we need to use
-      int totalScore = 0;
+      		int totalScore = 0;
 		int maxScore = 0;
   
 		System.out.println(""); //blank
@@ -90,8 +87,8 @@ public class Grades {
 			int score = in.nextInt(); //get the score
 			int max = in.nextInt(); //get the max
 			
-         totalScore += score; //update score
-			maxScore += max; //update max
+         	totalScore += score; //update score
+		maxScore += max; //update max
 		}
       
       double homeworks = (double)totalScore * weight / maxScore; //calculation      
@@ -115,13 +112,11 @@ public class Grades {
       if (totalScore > maxScore){
          totalScore = maxScore;
 		}
-      
-      System.out.println("Total points = " + totalScore + " / " + maxScore); //show total point
-		
-      System.out.printf("Weighted score = %.1f / " + weight, homeworks); //up to first decimal
-		System.out.println(); //blank
-		
-      return homeworks; //return weighted homwork score 
+    
+        System.out.println("Total points = " + totalScore + " / " + maxScore); //show total point	
+        System.out.printf("Weighted score = %.1f / " + weight, homeworks); //up to first decimal
+	System.out.println(); //blank	
+        return homeworks; //return weighted homwork score 
 	} 
   
    // This method tells the overall percentage and GPA.  
