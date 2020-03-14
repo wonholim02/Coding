@@ -13,3 +13,5 @@
 | NAME      | Email                |School          |
 | --------- | -------------------- |----------------|
 | Wonho Lim | wonholim02@gmail.com |Bugil Academy   |
+
+![](https://cdn.pixabay.com/photo/2018/05/08/08/44/artificial-intelligence-3382507__340.jpg)
