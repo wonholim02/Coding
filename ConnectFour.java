@@ -15,66 +15,60 @@ public class ConnectFour{
 		char turn = 'x'; 
             
       //first basic instructions and first round of game
-      System.out.println("Welcome to the game of Connect Four! Player X will go first.");
-      System.out.println("");
-		game.print(); 
+        System.out.println("Welcome to the game of Connect Four! Player X will go first.");
+        System.out.println("");
+        game.print(); 
+        System.out.println("");
+	System.out.println("Player X's turn:");
+	System.out.print("Enter column (1-7): ");
+	int column = in.nextInt(); 
+	game.makeMove(column, turn);       
+	System.out.println("");
+	System.out.println("");
+	game.print(); 
+        System.out.println("");
       
-      System.out.println("");
-		System.out.println("Player X's turn:");
-		System.out.print("Enter column (1-7): ");
-		int column = in.nextInt(); 
-		game.makeMove(column, turn); 
-      
-		System.out.println("");
-		System.out.println("");
-		game.print(); 
-      System.out.println("");
-      
-		while(game.getGameState() == con1){  //until the game ends
-      
-			if(turn == 'x'){ //if last turn was X
-            turn = 'o';
-				System.out.println("Player O's turn:");
-				System.out.print("Enter column (1-7): ");
-				column = in.nextInt(); 
-				while(game.makeMove(column, turn) == false){ //if input is wrong
-					System.out.println("Invalid move, try again");
-					System.out.println("");
-					game.print();
-					System.out.println("Player X's turn:");
-					System.out.print("Enter column (1-7): "); 
-					column = in.nextInt();
-               game.makeMove(column, turn);
-				}
-            
-            System.out.println("");
+	while(game.getGameState() == con1){  //until the game ends
+      		if(turn == 'x'){ //if last turn was X
+            		turn = 'o';
+			System.out.println("Player O's turn:");
+			System.out.print("Enter column (1-7): ");
+			column = in.nextInt(); 
+			while(game.makeMove(column, turn) == false){ //if input is wrong
+				System.out.println("Invalid move, try again");
 				System.out.println("");
 				game.print();
-            System.out.println("");
-            System.out.println("");
-            
-			} else{ //if last turn was o
-            turn = 'x';
 				System.out.println("Player X's turn:");
 				System.out.print("Enter column (1-7): "); 
-				column = in.nextInt(); 
-				while(game.makeMove(column, turn) == false){ //if input is wrong
-					System.out.println("Invalid move, try again");
-					System.out.println("");
-					game.print();
-					System.out.println("Player X's turn:");
-					System.out.print("Enter column (1-7): ");
-					column = in.nextInt();
-               game.makeMove(column, turn);
-				}
-            
-				System.out.println("");
+				column = in.nextInt();
+               			game.makeMove(column, turn);
+			}
+       			System.out.println("");
+			System.out.println("");
+			game.print();
+                	System.out.println("");
+                	System.out.println("");    
+		} else{ //if last turn was o
+            		turn = 'x';
+			System.out.println("Player X's turn:");
+			System.out.print("Enter column (1-7): "); 
+			column = in.nextInt(); 
+			while(game.makeMove(column, turn) == false){ //if input is wrong
+				System.out.println("Invalid move, try again");
 				System.out.println("");
 				game.print();
-            System.out.println("");
-            System.out.println("");
-			}	
-		}
+				System.out.println("Player X's turn:");
+				System.out.print("Enter column (1-7): ");
+				column = in.nextInt();
+               			game.makeMove(column, turn);
+			}            
+			System.out.println("");
+			System.out.println("");
+			game.print();
+            	        System.out.println("");
+            	        System.out.println("");
+		}	
+	}
       
       //if X wins the game
       if(game.getGameState() == con2){
