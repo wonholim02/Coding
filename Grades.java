@@ -1,7 +1,5 @@
 /*
 Name: Wonho Lim 
-Class: APCS Section C 
-Date: 7 September 2019 
 Description:This program gets input from user about student's grades on homework and 
             two exams and then finalizes the student's course overall grade
 */ 
