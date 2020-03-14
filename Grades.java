@@ -1,8 +1,8 @@
-/*
+/************************************************************************************
 Name: Wonho Lim 
 Description:This program gets input from user about student's grades on homework and 
             two exams and then finalizes the student's course overall grade
-*/ 
+************************************************************************************/
 
 //importing Scanner from java.util
 import java.util.Scanner;
