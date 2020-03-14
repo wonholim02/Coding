@@ -8,7 +8,7 @@ goodbye, it will show length of greatest string that user have printed.
 //import scanner for the program
 import java.util.Scanner;
 //give a class name for the program
-public class ChrisSentinelProgram {
+public class SentinelProgram {
    public static void main (String[] args) {
       //Create an object for scanner
       Scanner scan = new Scanner(System.in);
