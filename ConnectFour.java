@@ -1,6 +1,7 @@
 /**********************************************************************************************
 Name: Wonho Lim 
-Description: This program is a client code that uses method from GameBoard to make a game.
+Description: This program is a client code that uses method from GameBoard to make a 
+game that the player has to connect four indexes.
 **********************************************************************************************/
 import java.util.Scanner; 
 public class ConnectFour{
