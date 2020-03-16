@@ -1,11 +1,9 @@
-/*
+/***************************************************************************************
 Name: Wonho Lim
-Class: APCS Section C
-Date: 22 August 2019
 Description: This program is a mini substraction game that provides highest score at last.
              3~6 six random numbers are given to players and players should calculate them
              properly to earn a point. 
-*/
+********************************************************************************************/
 import java.util.Scanner; //importing Scanner
 public class ExtraCreditLab {
 
