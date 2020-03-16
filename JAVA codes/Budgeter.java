@@ -1,10 +1,8 @@
-/* 
+/********************************************************************************************************** 
 Name: Wonho Lim 
-Class: APCS Section C 
-Date: 31 August 2019 
 Description: This program investigates the income and expense of user, calculates the difference 
 between user's income and expense, and shows the statistical values and notice what kind of person you are. 
-*/ 
+***********************************************************************************************************/ 
 
 //importing Scanner from java.util
 import java.util.Scanner; //import scanner to get a input from users.
