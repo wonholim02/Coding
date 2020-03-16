@@ -8,10 +8,10 @@ import java.util.Scanner; //importing Scanner
 public class ExtraCreditLab {
 
 	public static void main(String[] args) {
-      int number; //initialize the number
-		int point = 0; //the point that user gets after giving correct answer.
-		int answer = 0; //player's answer
-      int respond = 1; //checking whether the user wants to keep playing the game
+                int number; //initialize the number
+                int point = 0; //the point that user gets after giving correct answer.
+                int answer = 0; //player's answer
+                int respond = 1; //checking whether the user wants to keep playing the game
 		int bestScore = 0; //save the highest score that the user get
 		boolean again = true; //whether the player is correct or not
 		Scanner in = new Scanner(System.in); //scanner for receving user's input
