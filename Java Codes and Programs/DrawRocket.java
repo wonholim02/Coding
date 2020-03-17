@@ -1,7 +1,5 @@
 /**********************************************************************************************
 Name: Wonho Lim 
-Class: APCS Section C 
-Date: 26 October 2019 
 Description: This program prints the Rocket Ship!
 **********************************************************************************************/
 public class DrawRocket{
