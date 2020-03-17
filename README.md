@@ -1,9 +1,9 @@
 # Coding **Practicies / Projects**
 
-### This project contains the various codes that I wrote with several programming languages.
+### This project contains the various codes that I wrote with several programming languages. 
 
 ## Programming Languages
-* Java(Main)
+* Java
   * AP Computer Science
 * Python 
 * Java Script
