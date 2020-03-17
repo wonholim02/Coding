@@ -1,10 +1,8 @@
-/* 
+/*************************************************************************
 Name: Wonho Lim 
-Class: APCS Section C 
-Date: 21 September 2019 
 Description: This program get the height width and length by parameter and 
-calculates sum of area sufrace and voulme. 
-*/ 
+calculates sum of area,sufrace, and voulme of the box. 
+***************************************************************************/ 
 public class Box { //Box Class
    private double height; //make field
    private double width; //make field
