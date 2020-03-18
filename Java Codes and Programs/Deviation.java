@@ -1,7 +1,6 @@
 /***************************************************************************** 
-Name: Wonho Lim 
-Class: APCS Section C 
-Description: This get standard deviation of ages from person array 
+Name: Wonho Lim  
+Description: This code get standard deviation of ages from person array 
 *****************************************************************************/
 public class Deviation {
    public double stdDev(Person[] ageArray, int size){ //get parameters
