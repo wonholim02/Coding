@@ -13,7 +13,6 @@ public class GuessingGame {
 	public static void main(String[] args) {
 		
       		haiku(); //print my haiku
-		
 		int trial=0; //number of trials
 		int totalGames = 1; //total number of games
 		int totalGuess = 0; //total number of guesses
