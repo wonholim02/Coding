@@ -1,7 +1,6 @@
 /***************************************************************************** 
 Name: Wonho Lim 
 Class: APCS Section C 
-Date: 28 September 2019 
 Description: This get standard deviation of ages from person array 
 *****************************************************************************/
 public class Deviation {
