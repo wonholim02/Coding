@@ -1,6 +1,6 @@
 /**********************************************************************************************
 Name: Wonho Lim 
-Description: This program prints the Rocket Ship!
+Description: This program simply prints the Rocket Ship wtih several loops!
 **********************************************************************************************/
 public class DrawRocket{
    public static void main(String[] args){
