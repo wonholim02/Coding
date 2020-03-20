@@ -2,8 +2,8 @@
 Name: Wonho Lim 
 Class: APCS Section C 
 Date: 21 September 2019 
-Description: This program get the location of taxi first, get the moved distance by parameter
-and then update total
+Description: This program get the location of taxi first, get the moved distance by parameter,
+and then update total distance
 *********************************************************************************************/ 
 public class Taxicab { //class Taxicab
    private int x; //make field
