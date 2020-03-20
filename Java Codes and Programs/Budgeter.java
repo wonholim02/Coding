@@ -1,8 +1,8 @@
-/********************************************************************************************************** 
+/*************************************************************************************************************
 Name: Wonho Lim 
-Description: This program investigates the income and expense of user, calculates the difference 
-between user's income and expense, and shows the statistical values and notice what kind of person you are. 
-***********************************************************************************************************/ 
+Description: This code investigates the income and expense of user, calculates the difference 
+between user's income and expense, and shows the statistical values and notice what kind of person the user is. 
+*************************************************************************************************************/ 
 
 //importing Scanner from java.util
 import java.util.Scanner; //import scanner to get a input from users.
