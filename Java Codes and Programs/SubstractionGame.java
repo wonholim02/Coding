@@ -4,8 +4,8 @@ Description: This program is a mini substraction game that provides highest scor
              3~6 six random numbers are given to players and players should calculate them
              properly to earn a point. 
 ********************************************************************************************/
-import java.util.Scanner; //importing Scanner
-public class ExtraCreditLab {
+import java.util.Scanner; 
+public class SubstractionGame {
 
 	public static void main(String[] args) {
                 int number; //initialize the number
