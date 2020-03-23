@@ -1,4 +1,4 @@
-# Coding **Practicies / Projects**
+# Coding **Projects / Programs**
 
 ### This project contains the various codes that I wrote with several programming languages. 
 
