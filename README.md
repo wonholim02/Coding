@@ -7,6 +7,7 @@
   * AP Computer Science
 * Python 
 * Java Script
+* C++
 
 ## Contributer Profile
 <!-- Tables -->
