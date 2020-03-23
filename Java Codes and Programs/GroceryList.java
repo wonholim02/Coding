@@ -3,7 +3,7 @@ Name: Wonho Lim
 Description: This program help user to add, remove, replace, display the grocery list as long
 as they want and then quit if they want to.
 **********************************************************************************************/ 
-//importing needed things
+//importing scanner and arraylist
 import java.util.ArrayList;
 import java.util.Scanner;
  
