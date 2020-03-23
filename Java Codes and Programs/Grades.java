@@ -4,8 +4,7 @@ Description:This program gets input from user about student's grades on homework
             two exams and then calculates the student's course overall grade.
 ************************************************************************************/
 
-//importing Scanner from java.util
-import java.util.Scanner;
+import java.util.Scanner; //importing Scanner from java.util
 public class Grades {
    static final int max = 100; //constant max value
    public static void main(String[] args) {
