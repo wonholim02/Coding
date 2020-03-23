@@ -16,7 +16,7 @@ public class SubstractionGame {
 		boolean again = true; //whether the player is correct or not
 		Scanner in = new Scanner(System.in); //scanner for receving user's input
       
-		do {
+		do { //do while loop
 			String question = ""; //initialize string for question 
 			number = (int)(Math.random() * 18) - 5; //slelect a random number
 			answer = number; //set the answer
