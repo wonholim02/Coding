@@ -9,6 +9,7 @@ public class Deviation {
       double average = 0;
       double differenceTotal = 0;
       
+      //Calculations
       for(int i = 0; i < size; i++){ //get the sum of ages
          total = total + ageArray[i].getAge();
       }
