@@ -5,12 +5,11 @@ The program ifinifely repeats until the user put goodbye as a input. After user 
 goodbye, it will show length of greatest string that user have printed. 
 **************************************************************************************/
 
-//import scanner for the program
+//importing scanner for the program
 import java.util.Scanner;
-//give a class name for the program
+
 public class SentinelProgram {
    public static void main (String[] args) {
-      //Create an object for scanner
       Scanner scan = new Scanner(System.in);
       //Show direction to user and make them to choose
       System.out.print("Type a word (or \"goodbye\" to quit): ");
