@@ -63,7 +63,7 @@ public class GuessingGame {
 		result(totalGames, totalGuess, bestScore); //prints results of the game at last
 	}
 	
-   //This method prints my haiku
+   		//This method prints my haiku
    		public static void haiku(){
      		System.out.println("Hello, new player!");
      		System.out.println("This is a good guessing game.");
