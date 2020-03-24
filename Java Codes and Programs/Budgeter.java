@@ -7,7 +7,7 @@ between user's income and expense, and shows the statistical values and notice w
 //importing Scanner from java.util
 import java.util.Scanner; //import scanner to get a input from users.
 public class Budgeter { //class named Budgeter
-   public static void main(String[] args) { //main class that is only filled with methods
+   public static void main(String[] args) {
    intro();
    result();
    }
