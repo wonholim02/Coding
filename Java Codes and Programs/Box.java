@@ -5,31 +5,31 @@ calculates sum of area,sufrace, and voulme of the box.
 ***************************************************************************/ 
 public class Box { //Box Class
    private double height; //make field
-   private double width; //make field
-   private double length; //make field
+   private double width; 
+   private double length; 
    
    public Box(){ //give basic values to fields
       height=1; //1
-      width=1; //1
-      length=1; //1
+      width=1;
+      length=1; 
    }
    
    public Box(double height2, double width2, double length2){ //get parameters and update fields
       height= height2; //update
-      width= width2; //update
-      length= length2; //update
+      width= width2; 
+      length= length2; 
    }
    
    public void setHeight(double up) { //get parameter and change height field(Setter)
-      height=up; //update
+      height=up; 
    }
    
    public void setWidth(double left) { //get parameter and change width field(Setter)
-      width=left;//update
+      width=left;
    }
    
    public void setLength(double right) { //get parameter and change length field(Setter)
-      length=right;//update
+      length=right;
    }
    
    public double calcVolume() { //calculate volume and return
