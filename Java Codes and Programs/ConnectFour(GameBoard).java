@@ -4,11 +4,12 @@ Description: This program contains the game board and methods that the client co
 conduct the game.
 **********************************************************************************************/ 
 public class GameBoard{
+	
    //making fields
    private static char[][] table;
    private static State gameState;
    
-   //enum class of gameState
+   //enum class for gameState
    public enum State{
       UNFINISHED, O_WON, X_WON, DRAW
    }
