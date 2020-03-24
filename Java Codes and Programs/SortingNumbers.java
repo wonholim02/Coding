@@ -1,9 +1,7 @@
 /******************************************************************************************************
-Chris Lim, Hyungkyu Lee
-your#,21220
-2019 Summer
-APCS, Section C
-This program prints 20 ranndom values, between 0 and 99, and prints the values again in numerical order
+Name: Wonho Lim
+Description: This program prints 20 ranndom values, between 0 and 99, and prints the values again in 
+numerical order.
 ******************************************************************************************************/
 
 import java. util. Arrays;
