@@ -3,19 +3,21 @@ Name: Wonho Lim
 Description: This program is a client code that uses method from GameBoard to make a 
 game that the player has to connect four indexes.
 **********************************************************************************************/
+
 import java.util.Scanner; 
+
 public class ConnectFour{
-   public static void main(String[] args){
-      //basic setting for game
-      GameBoard game = new GameBoard();
-      Scanner in = new Scanner(System.in);
+	public static void main(String[] args){
+      		//basic setting for game
+      		GameBoard game = new GameBoard();
+      		Scanner in = new Scanner(System.in);
 		GameBoard.State con1 = GameBoard.State.UNFINISHED; 
 		GameBoard.State con2 = GameBoard.State.O_WON; 
 		GameBoard.State con3 = GameBoard.State.X_WON; 
 		GameBoard.State con4 = GameBoard.State.DRAW; 
 		char turn = 'x'; 
             
-      //first basic instructions and first round of game
+        //first basic instructions and first round of game
         System.out.println("Welcome to the game of Connect Four! Player X will go first.");
         System.out.println("");
         game.print(); 
