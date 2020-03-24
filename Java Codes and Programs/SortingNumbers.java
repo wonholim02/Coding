@@ -4,7 +4,7 @@ Description: This program prints 20 ranndom values, between 0 and 99, and prints
 numerical order.
 ******************************************************************************************************/
 
-import java. util. Arrays;
+import java.util.Arrays;
 public class SummerHw{
    public static void main(String[] args){
       int[] number = new int[20];                  // the array length is 20
