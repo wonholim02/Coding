@@ -2,7 +2,7 @@
 Name: Wonho Lim 
 Description: This code gets the int array and find the median of them by sorting.
 *****************************************************************************/ 
-import java.util.Arrays; //to sort array late, import array
+import java.util.Arrays; //importing Array
 
 public class FindMedian {
   
