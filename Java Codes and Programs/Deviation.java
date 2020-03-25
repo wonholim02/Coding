@@ -4,6 +4,7 @@ Description: This code get standard deviation of ages from person array
 *****************************************************************************/
 public class Deviation {
    public double stdDev(Person[] ageArray, int size){ //get parameters
+      
       double standardDeviation; //declaring and initializing values
       double total = 0;
       double average = 0;
@@ -21,6 +22,7 @@ public class Deviation {
       }
       
       standardDeviation = Math.sqrt(differenceTotal / total); //final calculation
+      
       return standardDeviation; //return
    }
 }
