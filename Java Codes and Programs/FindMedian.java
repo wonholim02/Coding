@@ -1,6 +1,6 @@
 /***************************************************************************** 
 Name: Wonho Lim 
-Description: This gets the int array and find the median of them by sorting.
+Description: This code gets the int array and find the median of them by sorting.
 *****************************************************************************/ 
 import java.util.Arrays; //to sort array late, import array
 
