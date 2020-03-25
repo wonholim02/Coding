@@ -4,7 +4,8 @@
 
 ## Programming Languages
 * Java
-  * AP Computer Science
+  * AP Computer Science(APCS)
+  * Android Studio
 * Python 
 * Java Script(JS)
 * C++
