@@ -52,7 +52,6 @@ public class GroceryList{
       System.out.print("What do you want to add? ");//aksing and getting values
       String adding = scan.nextLine();
       adding = scan.nextLine();  
-      
       list.add(adding);
    }
    
@@ -60,7 +59,6 @@ public class GroceryList{
       System.out.print("What do you want to remove? ");//aksing and getting values
       String removing = scan.nextLine();
       removing = scan.nextLine();
-      
       if(list.contains(removing) == true) { //if exist
          list.remove(list.indexOf(removing));
       } else { //if it does not
