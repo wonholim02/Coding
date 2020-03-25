@@ -32,7 +32,6 @@ public class SubstractionGame {
          
 			for(int i = 0; i < (int)(Math.random() * 4); i++) { //pick several(1~4 numbers) random numbers
 				number = (int)(Math.random() * 18) - 5;
-            
 				answer = answer - number; //update the answer
 				question = question + " - " + number; //update question
 			}
@@ -40,27 +39,26 @@ public class SubstractionGame {
 			int response = in.nextInt(); //get the answer from the player
          
 			if(response == answer) { //if the answer is correct
-            point++; //add a point
+           			 point++; //add a point
 				again = true; //keep let it be true
 			} else { //if the answer is not correct
 				again = false; //change the boolean value to false to exit. 
 				
-            if(point > bestScore) { //update the highest score if needed
+            		if(point > bestScore) { //update the highest score if needed
 					bestScore = point;
 				}
             
-				System.out.println("Wrong! The answer was " + answer); //show the correct answer for loser
-				System.out.print("Try again? (1 for yes, 2 for no) "); //ask whether the player wants to play again
-				respond = in.nextInt(); //get the player's response whether the player will play again or not
-				System.out.println();
+			System.out.println("Wrong! The answer was " + answer); //show the correct answer for loser
+			System.out.print("Try again? (1 for yes, 2 for no) "); //ask whether the player wants to play again
+			respond = in.nextInt(); //get the player's response whether the player will play again or not
+			System.out.println();
 				
-            if(respond == 1) {
-               point = 0; //reset the point
-					again = true; //change boolean to true
-				}
+            		if(respond == 1) {
+              		 	point = 0; //reset the point
+				again = true; //change boolean to true
 			}
-		} while(again == true); //until the user gets wrong, the loop infinitely repeated
+		}
+	} while(again == true); //until the user gets wrong, the loop infinitely repeated
 		System.out.println("Your highest score was " + bestScore + "."); //print the highest score at last
-	}
-
+    }
 }
