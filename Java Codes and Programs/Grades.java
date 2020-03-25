@@ -43,13 +43,10 @@ public class Grades {
 				score = 100; //change it to 100
 			}
 		}
-      
 		double weightedScore = (double)score * weight / 100; //calculate the weighted score   
-        
 		System.out.println("Total points = " + score + " / " + max); //total point
 		System.out.printf("Weighted score = %.1f / " + weight, weightedScore ); //until first deciaml
 		System.out.println(); //blank
-      
 		return weightedScore; //return weighted score
 	}
 
@@ -118,29 +115,28 @@ public class Grades {
         return homeworks; //return weighted homwork score 
 	} 
   
-   // This method tells the overall percentage and GPA.  
+        // This method tells the overall percentage and GPA.  
 	public static void result(double exams, double homeworks) {
-      double grade = exams + homeworks; //calculate final score
+      		double grade = exams + homeworks; //calculate final score
 		String message = "Study hard!"; //set basic message(if score is lower than 60) 
-      double gpa = 0.0; //set basic gpa(if score is lower than 60)
+     		 double gpa = 0.0; //set basic gpa(if score is lower than 60)
       
-      System.out.println("");//blank 
+      		System.out.println("");//blank 
 		System.out.printf("Overall percentage = %.1f", grade); //up to first decimal
 		System.out.println("");//blank
 
-      if(grade > 60) { //if score is better than 60
+      		if(grade > 60) { //if score is better than 60
 			message = "Nice try but needs more effort!"; //update message
 			gpa = 0.7; //set gpa
-	   }
-      if (grade > 75) { //if score is better than 75
-         message = "Not bad! You can still make more improvements!"; //set message
+	  	 }
+      		if (grade > 75) { //if score is better than 75
+        		 message = "Not bad! You can still make more improvements!"; //set message
 			gpa = 2.0; //set gpa
   		}
-      if (grade > 85) { //if score is better than 85
-				message = "FANTASTIC!"; //set message
-            gpa = 3.0; //set gpa
-		} 
-      
+      		if (grade > 85) { //if score is better than 85
+			message = "FANTASTIC!"; //set message
+            		gpa = 3.0; //set gpa
+		}
 		System.out.println("Your grade will be at least: " + gpa); //show grade
 		System.out.println(message); //show message
    }
