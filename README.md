@@ -16,4 +16,4 @@
 | --------- | -------------------- |----------------|
 | Wonho Lim | wonholim02@gmail.com |Bugil Academy   |
 
-![](https://cdn.pixabay.com/photo/2018/05/08/08/44/artificial-intelligence-3382507__340.jpg)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Fcomputer-science&psig=AOvVaw0lkisavLQWOcvWJz0glakN&ust=1585194151149000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjw1KzatOgCFQAAAAAdAAAAABAo)
