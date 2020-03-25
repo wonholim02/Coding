@@ -6,7 +6,7 @@
 * Java
   * AP Computer Science
 * Python 
-* Java Script
+* Java Script(JS)
 * C++
 
 ## Contributer Profile
