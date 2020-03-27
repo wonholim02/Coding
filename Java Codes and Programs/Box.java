@@ -34,7 +34,7 @@ public class Box { //Box Class
    
    public double calcVolume() { //calculate volume and return
       double volume = height * width * length; 
-      return volume; //return volume 
+      return volume;
    } 
    
    public double calcSurfaceArea() { //calculate surface area and return
