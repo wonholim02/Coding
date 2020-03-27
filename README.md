@@ -1,5 +1,5 @@
+![](https://placehold.it/900x90/009955/fff?text=TheWorldOfCoding)
 # Coding **Projects / Programs**
-
 ### This project contains the various codes that I wrote with several programming languages. 
 
 ## Programming Languages
