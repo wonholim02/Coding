@@ -33,7 +33,7 @@ public class Box { //Box Class
    }
    
    public double calcVolume() { //calculate volume and return
-      double volume = height * width * length; //calculate volume
+      double volume = height * width * length; 
       return volume; //return volume 
    } 
    
