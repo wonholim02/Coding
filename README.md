@@ -7,6 +7,7 @@
   * _AP Computer Science(APCS)_
   * _Android Studio_
 * Python 
+  * _Data Science_
 * Markdown
 * Java Script(JS)
 * C++
