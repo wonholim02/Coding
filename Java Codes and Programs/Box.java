@@ -1,4 +1,4 @@
-/*************************************************************************
+/**************************************************************************
 Name: Wonho Lim 
 Description: This program get the height width and length by parameter and 
 calculates sum of area,sufrace, and voulme of the box. 
@@ -15,7 +15,7 @@ public class Box { //Box Class
    }
    
    public Box(double height2, double width2, double length2){ //get parameters and update fields
-      height= height2; //update
+      height= height2;
       width= width2; 
       length= length2; 
    }
