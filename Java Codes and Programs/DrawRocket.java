@@ -13,7 +13,7 @@ public class DrawRocket{
    }
    
    public static void triangle(){ //This prints very top and bottom triangular shape of the rocket
-      final int SIZE = 3; //constant
+      final int SIZE = 3; 
       
       for (int lines = 1; lines <= (SIZE * 2 - 1); lines++) { //counting lines
 	      
