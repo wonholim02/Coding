@@ -38,7 +38,7 @@ public class Box { //Box Class
    } 
    
    public double calcSurfaceArea() { //calculate surface area and return
-      double surfaceArea = 2*height*width + 2*height*length + 2*width*length; //calculate sum of areas
-      return surfaceArea; //return surface area 
+      double surfaceArea = 2*height*width + 2*height*length + 2*width*length; 
+      return surfaceArea;  
    }
 }
