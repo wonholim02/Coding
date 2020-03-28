@@ -1,6 +1,6 @@
 /******************************************************************************************************
 Name: Wonho Lim
-Description: This program prints 20 ranndom values, between 0 and 99, and prints the values again in 
+Description: This program prints 20 random values, between 0 and 99, and prints the values again in 
 numerical order.
 ******************************************************************************************************/
 
