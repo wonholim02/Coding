@@ -13,9 +13,7 @@ public class SentinelProgram {
       Scanner scan = new Scanner(System.in);
       //Show direction to user and make them to choose
       System.out.print("Type a word (or \"goodbye\" to quit): ");
-      //Scan a string and save it
       String line  = scan.nextLine();
-      //This will save the length of all strings
       int length = 0;
       //This will save the length of longest string
       int longestLength = 0;
