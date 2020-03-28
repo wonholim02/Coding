@@ -17,9 +17,7 @@ public class SentinelProgram {
       int longestLength = 0;
       String longestString = "";
       while (!line.equals("goodbye")){
-      //This make the user input's length
          length = line.length();
-         //it happens only if new input is longer than former longest line
          if (length > longestLength){ 
             longestLength = length;
             longestString = line;
@@ -27,7 +25,6 @@ public class SentinelProgram {
             System.out.print("Type a word (or \"goodbye\" to quit): ");
             line = scan.nextLine();
       }
-      //Finally shows the result, word that user typed and its length 
       System.out.println("The longest word you typed was \"" + longestString + "\" (" + longestLength + "letters)"); 
    }   
 }
