@@ -25,14 +25,10 @@ public class SentinelProgram {
          length = line.length();
          //it happens only if new input is longer than former longest line
          if (length > longestLength){ 
-            //Save the new input's length
             longestLength = length;
-            //Save the new input's exact string
             longestString = line;
             }
-            //Show direction to user and make them to choose
             System.out.print("Type a word (or \"goodbye\" to quit): ");
-            //Scan a new input that user give and apply again
             line = scan.nextLine();
       }
       //Finally shows the result, word that user typed and its length 
