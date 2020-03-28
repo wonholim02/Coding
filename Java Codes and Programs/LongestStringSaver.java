@@ -11,15 +11,11 @@ import java.util.Scanner;
 public class SentinelProgram {
    public static void main (String[] args) {
       Scanner scan = new Scanner(System.in);
-      //Show direction to user and make them to choose
       System.out.print("Type a word (or \"goodbye\" to quit): ");
       String line  = scan.nextLine();
       int length = 0;
-      //This will save the length of longest string
       int longestLength = 0;
-      //This will save exact string of the longest string
       String longestString = "";
-      //It infinifely repeats until the goodbye typed. After then, it will show length and string of the longest string.
       while (!line.equals("goodbye")){
       //This make the user input's length
          length = line.length();
