@@ -14,9 +14,9 @@
 
 ## Contributer Profile
 <!-- Tables -->
-| NAME      | Email                |School          |
-| --------- | -------------------- |----------------|
-| Wonho Lim | wonholim02@gmail.com |Bugil Academy   |
+| NAME      | Email                |School          |Birthday           |
+| --------- | -------------------- |----------------|-------------------|
+| Wonho Lim | wonholim02@gmail.com |Bugil Academy   |2002.11.25         |
 
 ![](https://wallpaperaccess.com/full/1325090.jpg)
 ![](https://placehold.it/950x90/009955/fff?text=Welcome)
