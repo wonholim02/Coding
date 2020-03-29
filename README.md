@@ -19,4 +19,4 @@
 | Wonho Lim | wonholim02@gmail.com |Bugil Academy   |
 
 ![](https://wallpaperaccess.com/full/1325090.jpg)
-![](https://placehold.it/900x90/009955/fff?text=)
+![](https://placehold.it/900x90/009955/fff?text= )
