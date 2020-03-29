@@ -1,4 +1,4 @@
-![](https://placehold.it/900x90/009955/fff?text=TheWorldOfCoding)
+![](https://placehold.it/950x90/009955/fff?text=TheWorldOfCoding)
 # Coding **Projects / Programs**
 ### This project contains the various codes that I wrote with several programming languages. 
 
@@ -19,4 +19,4 @@
 | Wonho Lim | wonholim02@gmail.com |Bugil Academy   |
 
 ![](https://wallpaperaccess.com/full/1325090.jpg)
-![](https://placehold.it/900x90/009955/fff?text=Welcome)
+![](https://placehold.it/950x90/009955/fff?text=Welcome)
