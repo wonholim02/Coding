@@ -19,12 +19,9 @@ public class Budgeter { //class named Budgeter
    }   
    
    public static double scan() { //scan and save
-      Scanner in = new Scanner(System.in); 
-      
-      double number; 
-      
+      Scanner in = new Scanner(System.in);
+      double number;
       number = in.nextDouble(); 
-      
       return number; 
    }
    
