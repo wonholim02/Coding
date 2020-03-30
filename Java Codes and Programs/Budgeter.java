@@ -26,15 +26,14 @@ public class Budgeter { //class named Budgeter
    }
    
    //return the total income of user
-   public static double income(){
-      //initializing and declaring the variables we need
+   public static double income();
       double totalIncome = 0;
       double incomeCategories = 0;
       double income;
       
       //asking how many categories we user have and save it
-      System.out.print("How many categories of income? "); //asking
-      incomeCategories = scan(); //get the user's answer
+      System.out.print("How many categories of income? "); 
+      incomeCategories = scan(); 
       
       while(incomeCategories != 0){ //until income categories become zero, repeat asking and saving.
          System.out.print("    Next income amount? $"); 
