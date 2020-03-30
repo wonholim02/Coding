@@ -36,11 +36,11 @@ public class Budgeter { //class named Budgeter
       System.out.print("How many categories of income? "); //asking
       incomeCategories = scan(); //get the user's answer
       
-      while(incomeCategories != 0){ //until income categories become zero
-         System.out.print("    Next income amount? $"); //asking incomes
-         income = scan(); //get the values
-         totalIncome = totalIncome + income; //update the total income
-         incomeCategories--; //decrease remaining number of income categories by 1
+      while(incomeCategories != 0){ //until income categories become zero, repeat asking and saving.
+         System.out.print("    Next income amount? $"); 
+         income = scan(); 
+         totalIncome = totalIncome + income; 
+         incomeCategories--; 
          }
       //return the total income at last    
       return totalIncome;
