@@ -124,6 +124,7 @@ public class Budgeter { //class named Budgeter
          System.out.println("You're a saver.");
          System.out.println("Good! Please Keep that good spending habit!"); //my own custom line 
       }
+      
       //if total income is bigger than total expense and gap is bigger than 250, consider as a big saver
       if(totalIncome>totalExpense && (totalIncome-totalExpense) > 250){
          System.out.print("You earned $");
@@ -132,6 +133,7 @@ public class Budgeter { //class named Budgeter
          System.out.println("You're a big saver.");
          System.out.println("Your habit is respectable, but sometimes you should use some money for yourself."); //my own custom line
       }
+      
       //if total expense is bigger than total income and gap is smaller than 250, consider as a spender
       if(totalIncome<totalExpense && (totalExpense-totalIncome) < 250){
          System.out.print("You spent $");
@@ -140,6 +142,7 @@ public class Budgeter { //class named Budgeter
          System.out.println("You're a spender.");
          System.out.println("It will be better if you save more money."); //my own custom line
       }
+      
       //if total expense is bigger than total income and gap is bigger than 250, consider as big spender
       if(totalIncome<totalExpense && (totalExpense-totalIncome) > 250){
          System.out.print("You spent $"); 
@@ -148,6 +151,7 @@ public class Budgeter { //class named Budgeter
          System.out.println("You're a big spender.");
          System.out.println("You are spending too much money!"); //my own custom line
       }
+      
       //if total expense and income is equal, consider as spender
       if(totalIncome == totalExpense){
          System.out.print("You spent $"); 
