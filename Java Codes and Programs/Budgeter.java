@@ -55,11 +55,11 @@ public class Budgeter { //class named Budgeter
       System.out.print("How many categories of expense? ");//asking user the number of categories
       expenseCategories = scan(); //get the user's answer
       
-      while(expenseCategories > 0){ //until expense categories become zero
-         System.out.print("    Next expense amount? $"); //asking expenses
-         expense = scan(); //get the values
-         totalExpense = totalExpense + expense; //update the total value
-         expenseCategories--;  //decrease remaning number of expense categories by 1
+      while(expenseCategories > 0){ //until expense categories become zero, keep asking
+         System.out.print("    Next expense amount? $"); 
+         expense = scan(); 
+         totalExpense = totalExpense + expense; 
+         expenseCategories--;  
       }
       //return the total expense at last
       return totalExpense;
