@@ -18,15 +18,14 @@ public class Budgeter { //class named Budgeter
       System.out.println("");
    }   
    
-   //Scanner as a method is needed because we can only use 1 scanner object
-   public static double scan() {
-      Scanner in = new Scanner(System.in); //make new scanner
+   public static double scan() { //scan and save
+      Scanner in = new Scanner(System.in); 
       
-      double number; //make a variable call number
+      double number; 
       
-      number = in.nextDouble(); //store the user's input to number
+      number = in.nextDouble(); 
       
-      return number; //return user's input as a number to use it
+      return number; 
    }
    
    //return the total income of user
