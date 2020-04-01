@@ -1,4 +1,4 @@
-![](https://placehold.it/900x90/009955/fff?text=TheWorldOfCoding)
+![](https://placehold.it/950x90/0000FF/fff?text=TheWorldOfCoding)
 # Coding **Projects / Programs**
 ### This project contains the various codes that I wrote with several programming languages. 
 
@@ -10,12 +10,14 @@
   * _Data Science_
 * Markdown
 * Java Script(JS)
+  *_Android Studio_
 * C++
 
 ## Contributer Profile
 <!-- Tables -->
-| NAME      | Email                |School          |
-| --------- | -------------------- |----------------|
-| Wonho Lim | wonholim02@gmail.com |Bugil Academy   |
+| NAME      | Email                |School          |Birthday           |
+| --------- | -------------------- |----------------|-------------------|
+| Wonho Lim | wonholim02@gmail.com |Bugil Academy   |2002.11.25         |
 
 ![](https://wallpaperaccess.com/full/1325090.jpg)
+![](https://placehold.it/950x90/0000FF/fff?text=Welcome)
