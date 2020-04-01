@@ -153,7 +153,7 @@ public class Budgeter {
       //if total expense and income is equal, consider as spender
       if(totalIncome == totalExpense){
          System.out.print("You spent $"); 
-         System.out.printf("%.2f", totalExpense-totalIncome); //round up to second decimal
+         System.out.printf("%.2f", totalExpense-totalIncome); 
          System.out.println(" more than you earned this month.");
          System.out.println("You're a spender.");
          System.out.println("It will be better if you save more money."); //my own custom line   
