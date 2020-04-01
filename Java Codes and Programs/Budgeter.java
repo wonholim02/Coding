@@ -52,7 +52,7 @@ public class Budgeter {
       double expense;
       
       System.out.print("How many categories of expense? ");//asking user the number of categories
-      expenseCategories = scan(); //get the user's answer
+      expenseCategories = scan(); 
       
       while(expenseCategories > 0){ //until expense categories become zero, keep asking
          System.out.print("    Next expense amount? $"); 
@@ -66,7 +66,6 @@ public class Budgeter {
    
    //asking user whether the total expense is daily expense or montly expense  
    public static int daycount2(){
-      //initializing and declaring the variables we need
       int days2 = 1;
       double response2;      
       System.out.println("");//blank
