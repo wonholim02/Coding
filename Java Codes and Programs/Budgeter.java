@@ -135,10 +135,10 @@ public class Budgeter {
       //if total expense is bigger than total income and gap is smaller than 250, consider as a spender
       if(totalIncome<totalExpense && (totalExpense-totalIncome) < 250){
          System.out.print("You spent $");
-         System.out.printf("%.2f", totalExpense-totalIncome); //round up to second decimal
+         System.out.printf("%.2f", totalExpense-totalIncome); 
          System.out.println(" more than you earned this month.");
          System.out.println("You're a spender.");
-         System.out.println("It will be better if you save more money."); //my own custom line
+         System.out.println("It will be better if you save more money.");
       }
       
       //if total expense is bigger than total income and gap is bigger than 250, consider as big spender
