@@ -147,7 +147,7 @@ public class Budgeter {
          System.out.printf("%.2f", totalExpense-totalIncome);  
          System.out.println(" more than you earned this month.");
          System.out.println("You're a big spender.");
-         System.out.println("You are spending too much money!"); //my own custom line
+         System.out.println("You are spending too much money!"); 
       }
       
       //if total expense and income is equal, consider as spender
@@ -156,7 +156,7 @@ public class Budgeter {
          System.out.printf("%.2f", totalExpense-totalIncome); 
          System.out.println(" more than you earned this month.");
          System.out.println("You're a spender.");
-         System.out.println("It will be better if you save more money."); //my own custom line   
+         System.out.println("It will be better if you save more money.");  
       }
    }
 }
