@@ -25,7 +25,7 @@ public class Taxicab { //class Taxicab
    }
    
    public int getYCoord(){ //getter of ycordination(return it)
-      return y; //return y
+      return y; 
    }
    
    public int getDistanceTraveled(){ //getter of total
