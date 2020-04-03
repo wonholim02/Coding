@@ -29,7 +29,7 @@ public class Taxicab { //class Taxicab
    }
    
    public int getDistanceTraveled(){ //getter of total
-      return total; //return total 
+      return total; 
    }
    
    public void moveX(int horizontal){ //get value from parameter and update fields
