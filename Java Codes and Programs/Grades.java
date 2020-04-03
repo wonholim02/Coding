@@ -1,7 +1,7 @@
 /************************************************************************************
 Name: Wonho Lim 
 Description:This program gets input from user about student's grades on homework and 
-            two exams and then calculates the student's course overall grade.
+            two exams, and calculates the student's course overall grade.
 ************************************************************************************/
 
 import java.util.Scanner; //importing Scanner from java.util
