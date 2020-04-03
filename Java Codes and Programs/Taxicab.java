@@ -5,7 +5,7 @@ and then update total distance
 *********************************************************************************************/ 
 public class Taxicab { //class Taxicab
    private int x; //make field
-   private int y;//make field
+   private int y;
    private int total;//make field
    
    public Taxicab(){ //give basic values to fields
