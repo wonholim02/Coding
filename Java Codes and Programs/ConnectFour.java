@@ -8,7 +8,8 @@ import java.util.Scanner;
 
 public class ConnectFour{
 	public static void main(String[] args){
-      		//basic setting for game
+      		
+		//basic setting for game
       		GameBoard game = new GameBoard();
       		Scanner in = new Scanner(System.in);
 		GameBoard.State con1 = GameBoard.State.UNFINISHED; 
