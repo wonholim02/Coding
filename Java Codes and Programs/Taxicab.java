@@ -9,9 +9,9 @@ public class Taxicab { //class Taxicab
    private int total;
    
    public Taxicab(){ //give basic values to fields
-      x = 0; //0
-      y = 0; //0
-      total = 0; //0
+      x = 0; 
+      y = 0; 
+      total = 0; 
    }
    
    public Taxicab(int xgo, int ygo){ //get parameters and update fields except total
