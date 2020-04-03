@@ -11,7 +11,7 @@ public class Receipt{
       double Tip = Subtotal * .15;
       double Total = Subtotal + Tax + Tip;
       
-      //print the values
+      //print the all values
       System.out.println("Subtotal:" + Subtotal);
       System.out.println("Tax:" + Tax);
       System.out.println("Tip:" + Tip);
