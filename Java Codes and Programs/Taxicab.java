@@ -21,7 +21,7 @@ public class Taxicab { //class Taxicab
    }
    
    public int getXCoord(){ ////getter of xcordination(return it)
-      return x; //return x
+      return x; 
    }
    
    public int getYCoord(){ //getter of ycordination(return it)
