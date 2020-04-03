@@ -54,7 +54,7 @@ public class Dictionary {
             answer = scan.nextInt();
          }
       }
-      System.out.println("QUIT"); //if the user put 6, end the program
+      System.out.println("QUIT"); //if the user put 6, end the program 
    } 
    
    public void add(){ //adding 1(word)
