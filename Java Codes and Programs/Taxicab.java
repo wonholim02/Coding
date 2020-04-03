@@ -15,8 +15,8 @@ public class Taxicab { //class Taxicab
    }
    
    public Taxicab(int xgo, int ygo){ //get parameters and update fields except total
-      x = xgo; 
-      y = ygo; //update
+      x = xgo;//update 
+      y = ygo;
       total = 0; //total still 0
    }
    
