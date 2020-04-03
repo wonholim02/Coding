@@ -6,7 +6,7 @@ and then update total distance
 public class Taxicab { //class Taxicab
    private int x; //make field
    private int y;
-   private int total;//make field
+   private int total;
    
    public Taxicab(){ //give basic values to fields
       x = 0; //0
