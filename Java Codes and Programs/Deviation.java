@@ -21,7 +21,6 @@ public class Deviation {
       }
       
       standardDeviation = Math.sqrt(differenceTotal / total); //final calculation
-      
       return standardDeviation; //return
    }
 }
