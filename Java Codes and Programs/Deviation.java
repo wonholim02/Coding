@@ -20,7 +20,7 @@ public class Deviation {
          differenceTotal = differenceTotal + Math.pow(ageArray[i].getAge() - average , 2);
       }
       
-      standardDeviation = Math.sqrt(differenceTotal / total); //final calculation
+      standardDeviation = Math.sqrt(differenceTotal / total); //final calculation of deviation
       return standardDeviation;
    }
 }
