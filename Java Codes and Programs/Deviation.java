@@ -16,7 +16,6 @@ public class Deviation {
       }
       
       average = total / size; //get average
-      
       for(int i = 0; i < size; i++){ //get the differece square total
          differenceTotal = differenceTotal + Math.pow(ageArray[i].getAge() - average , 2);
       }
