@@ -1,4 +1,4 @@
-/***************************************************************************************
+/********************************************************************************************
 Name: Wonho Lim
 Description: This program is a mini substraction game that provides several games and highest 
 	     score at last. 3~6 six random numbers are given to players and players should 
