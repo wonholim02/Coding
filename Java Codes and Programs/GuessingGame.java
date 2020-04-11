@@ -6,6 +6,8 @@ guessed number is higher or lower. If the user gets the correct answer, the prog
 want to keep playing or not. Finally, after the user stops, the program shows the overall result of games. 
 ********************************************************************************************************/
 
+//This is main game processing object for game
+
 import java.util.Scanner; 
 public class GuessingGame {
 	public static void main(String[] args) {
