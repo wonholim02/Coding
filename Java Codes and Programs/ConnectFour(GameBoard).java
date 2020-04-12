@@ -1,7 +1,7 @@
 /**********************************************************************************************
 Name: Wonho Lim 
 Description: This program contains methods that the client code can use to conduct the game and
-record everything that
+record and store everything that sh
 **********************************************************************************************/ 
 public class GameBoard{
 	
