@@ -1,7 +1,6 @@
 /**********************************************************************************************
 Name: Wonho Lim 
-Description: This program contains the game board and methods that the client code can use to 
-conduct the game.
+Description: This program contains methods that the client code can use to conduct the game and
 **********************************************************************************************/ 
 public class GameBoard{
 	
