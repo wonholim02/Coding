@@ -11,7 +11,7 @@
 * Markdown
 * Java Script(JS)
   *_Android Studio_
-  *_AP Computer Science Principles
+  *_AP Computer Science Principles_
 * C++
 
 ## Contributer Profile
