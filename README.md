@@ -11,6 +11,7 @@
 * Markdown
 * Java Script(JS)
   *_Android Studio_
+  *_AP Computer Si
 * C++
 
 ## Contributer Profile
