@@ -1,6 +1,6 @@
 /***************************************************************************** 
 Name: Wonho Lim  
-Description: This code get standard deviation of ages from person array 
+Description: This code get standard deviation of ages from person array(ages) 
 *****************************************************************************/
 public class Deviation {
    public double stdDev(Person[] ageArray, int size){ //get parameters
@@ -21,6 +21,7 @@ public class Deviation {
       }
       
       standardDeviation = Math.sqrt(differenceTotal / total); //final calculation of deviation
-      return standardDeviation;
+      
+      return standardDeviation; //returning the standard deviation
    }
 }

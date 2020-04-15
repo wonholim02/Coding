@@ -1,8 +1,8 @@
-/**********************************************************************************************
+/***********************************************************************************************
 Name: Wonho Lim 
 Description: This program help user to add, remove, change, get, display the word and its 
 definition in dictionary as long as they want and then quit if they want to.
-**********************************************************************************************/
+************************************************************************************************/
 
 //importing Arraylist and scanner
 import java.util.ArrayList;
@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class Dictionary {
    private ArrayList<String> listWor = new ArrayList<String>(); //add arraylist fields
    private ArrayList<String> listDef = new ArrayList<String>();
-   Scanner scan = new Scanner(System.in); //add scanners 
+   Scanner scan = new Scanner(System.in); //add scanner objects
    Scanner in = new Scanner(System.in);
    
    public void start(){ //start method ask user what they want to do
@@ -20,7 +20,7 @@ public class Dictionary {
       System.out.println("definition in dictionary(make own dictionary) as long as they want and quit if they want to.");
       
       System.out.print("What do you want to do? Type numbers (1.add 2.remove 3.change 4.get 5.display 6.quit) ");
-      answer = scan.nextInt(); //get the first answer before start the program
+      answer = scan.nextInt(); //get the basic answer before start the program
       
       while( answer != 6) { //until the user want to quit
          
@@ -86,7 +86,7 @@ public class Dictionary {
       } 
    }   
    
-   public void change(){ //changing
+   public void change(){ //changing method
       System.out.print("Which word's definition do you want to change? "); //aksing and getting values
       String cWord = scan.nextLine();
       cWord = scan.nextLine();
@@ -103,7 +103,7 @@ public class Dictionary {
       }    
    }
    
-   public void get(){
+   public void get(){ //getting method
       System.out.print("Which word's definition do you want to get? Type word. ");
       String getDef = in.nextLine(); //aksing and getting values
       
