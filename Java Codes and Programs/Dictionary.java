@@ -103,7 +103,7 @@ public class Dictionary {
       }    
    }
    
-   public void get(){
+   public void get(){ //getting method
       System.out.print("Which word's definition do you want to get? Type word. ");
       String getDef = in.nextLine(); //aksing and getting values
       
