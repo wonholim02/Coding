@@ -86,7 +86,7 @@ public class Dictionary {
       } 
    }   
    
-   public void change(){ //changing
+   public void change(){ //changing method
       System.out.print("Which word's definition do you want to change? "); //aksing and getting values
       String cWord = scan.nextLine();
       cWord = scan.nextLine();
