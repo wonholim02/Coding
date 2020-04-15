@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class Dictionary {
    private ArrayList<String> listWor = new ArrayList<String>(); //add arraylist fields
    private ArrayList<String> listDef = new ArrayList<String>();
-   Scanner scan = new Scanner(System.in); //add scanner o
+   Scanner scan = new Scanner(System.in); //add scanner ob
    Scanner in = new Scanner(System.in);
    
    public void start(){ //start method ask user what they want to do
