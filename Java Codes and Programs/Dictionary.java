@@ -20,7 +20,7 @@ public class Dictionary {
       System.out.println("definition in dictionary(make own dictionary) as long as they want and quit if they want to.");
       
       System.out.print("What do you want to do? Type numbers (1.add 2.remove 3.change 4.get 5.display 6.quit) ");
-      answer = scan.nextInt(); //get the first answer before start the program
+      answer = scan.nextInt(); //get the basic answer before start the program
       
       while( answer != 6) { //until the user want to quit
          
