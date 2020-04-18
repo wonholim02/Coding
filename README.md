@@ -8,6 +8,7 @@
   * _Android Studio_
 * Python 
   * _Data Science_
+  *Statistics
 * Markdown
 * Java Script(JS)
   *_Android Studio_
