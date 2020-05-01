@@ -1,5 +1,5 @@
 /**********************************************************************************************
-Name: Wonho Lim 
+Name: Wonho Chris Lim 
 Description: This program contains methods that the client code can use to conduct the game and
 record and store everything that should be kept for the process.
 ************************************************************************************************/ 
