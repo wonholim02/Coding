@@ -14,7 +14,7 @@ public class Dictionary {
    Scanner scan = new Scanner(System.in); //add scanner objects
    Scanner in = new Scanner(System.in);
    
-   public void start(){ //start method ask user what they want to do
+   public void start(){ //start method and ask user what they want to do
       int answer = 0;
       System.out.println("This program help user to add, remove, change, get, display the word and its");
       System.out.println("definition in dictionary(make own dictionary) as long as they want and quit if they want to.");
