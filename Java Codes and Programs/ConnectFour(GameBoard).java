@@ -5,7 +5,7 @@ record and store everything that should be kept for the process.
 *************************************************************************************************/ 
 public class GameBoard{
 	
-   //making fields
+   //making fields for the program
    private static char[][] table;
    private static State gameState;
    
