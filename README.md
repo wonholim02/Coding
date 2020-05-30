@@ -5,7 +5,7 @@
 ## Programming Languages
 * Java
   * _AP Computer Science(APCS)_
-  * _Android Studio_
+  * _Android Studio(XML)_
 * Python 
   * _Data Science_
   * _Statistics_
