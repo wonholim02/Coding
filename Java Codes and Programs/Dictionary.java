@@ -70,7 +70,7 @@ public class Dictionary {
       listDef.add(definition);
    }
    
-   public void remove(){ //removing word
+   public void remove(){ //removing the word
       System.out.print("Which word(definition) do you want to remove? ");
       String removing = scan.nextLine(); //asking and getting value
       removing = scan.nextLine();
