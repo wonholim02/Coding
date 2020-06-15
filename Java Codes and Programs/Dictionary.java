@@ -8,7 +8,7 @@ definition in dictionary as long as they want and then quit if they want to.
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Dictionary {
+public class Dictionary{
    private ArrayList<String> listWor = new ArrayList<String>(); //add arraylist fields
    private ArrayList<String> listDef = new ArrayList<String>();
    Scanner scan = new Scanner(System.in); //add scanner objects
