@@ -1,6 +1,6 @@
 /*****************************************************************************************
 Coder Name: Wonho Lim 
-Description: This program help user to add, remove, change, get, display the word and its
+Description: This program allows user to add, remove, change, get, display the word and its
 definition in dictionary as long as they want and then quit if they want to.
 ******************************************************************************************/
 
