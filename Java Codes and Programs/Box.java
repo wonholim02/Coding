@@ -1,5 +1,5 @@
 /**************************************************************************
-Name: Wonho Lim 
+Name: Wonho Lim TYPE:School Project
 Description: This program get the height width and length by parameter and 
 calculates sum of area,sufrace, and voulme of the box. 
 ***************************************************************************/ 
