@@ -1,5 +1,5 @@
 /*****************************************************************************************
-Name: Wonho Lim 
+Name: Wonho Lim TYPE:School Project
 Description: This code gets the int type array and find the median of the array by sorting.
 ******************************************************************************************/ 
 import java.util.Arrays; //importing Array
