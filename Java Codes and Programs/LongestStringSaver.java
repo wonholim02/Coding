@@ -1,5 +1,5 @@
 /*************************************************************************************************
-Name: Wonho Lim
+Name: Wonho Lim TYPE:School Project
 Description: This code prints out longest word that was typed by the user by using sentinel value.
 The program ifinifely repeats until the user put goodbye as a input. After user type
 goodbye, it will show length of greatest string that user have printed. 
