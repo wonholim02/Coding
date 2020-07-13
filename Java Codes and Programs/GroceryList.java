@@ -1,5 +1,5 @@
 /**********************************************************************************************
-Name: Wonho Lim 
+Name: Wonho Lim TYPE:School Project
 Description: This program help user to add, remove, replace, display the items in grocery list 
 as long as they want and then quit if they want to.
 **********************************************************************************************/ 
