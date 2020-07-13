@@ -1,5 +1,5 @@
 /********************************************************************************************************
-Name: Wonho Lim
+Name: Wonho Lim TYPE:School Project
 Description: This program is a mini game which interacts with player. The program pick a random integer 
 asks the user guesses the number correctly. If the user gives incorrect value, the program shows whether 
 guessed number is higher or lower. If the user gets the correct answer, the program asksuser whether they 
