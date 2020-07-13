@@ -1,5 +1,5 @@
 /********************************************************
-Name:Wonho Lim
+Name:Wonho Lim TYPE:School Project
 This java code calculates the total price and prints recipet
 *********************************************************/
 public class Receipt{
