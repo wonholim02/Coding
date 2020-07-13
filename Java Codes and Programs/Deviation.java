@@ -1,5 +1,5 @@
 /***************************************************************************** 
-Name: Wonho Lim  
+Name: Wonho Lim  TYPE:School Project
 Description: This code get standard deviation of ages from person array(ages) 
 *****************************************************************************/
 public class Deviation {
