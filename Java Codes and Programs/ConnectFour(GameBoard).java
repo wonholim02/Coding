@@ -1,5 +1,5 @@
 /************************************************************************************************
-Name: Wonho Chris Lim 
+Name: Wonho Chris Lim TYPE:School Project
 Description: This program contains methods that the client code can use to conduct the game and
 record and store everything that should be kept for the process.
 *************************************************************************************************/ 
