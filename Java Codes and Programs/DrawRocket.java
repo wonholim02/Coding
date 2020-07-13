@@ -1,5 +1,5 @@
 /**********************************************************************************************
-Name: Wonho Lim 
+Name: Wonho Lim TYPE:School Project
 Description: This short code simply prints the Rocket Ship wtih several loops and methods.
 **********************************************************************************************/
 public class DrawRocket{
