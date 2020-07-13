@@ -1,5 +1,5 @@
 /************************************************************************************
-Name: Wonho Lim 
+Name: Wonho Lim TYPE:School Project
 Description:This program gets input from user about student's grades on homework and 
             two exams, and calculates the student's course overall grade.
 ************************************************************************************/
