@@ -1,8 +1,8 @@
-/*****************************************************************************************
+/******************************************************************************************
 Coder Name: Wonho Lim TYPE:School Project
 Description: This program allows user to add, remove, change, get, display the word and its
 definition in dictionary as long as they want and then quit if they want to.
-******************************************************************************************/
+*******************************************************************************************/
 
 //importing Arraylist and scanner to program 
 import java.util.ArrayList;
