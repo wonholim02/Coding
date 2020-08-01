@@ -1,5 +1,6 @@
 /*********************************************************************************************
 Name: Wonho Lim 
+Type: School Project
 Description: This program get the location of taxi first, get the moved distance by parameter,
 and then update total distance
 *********************************************************************************************/ 

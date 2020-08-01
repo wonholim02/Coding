@@ -1,5 +1,5 @@
 /****************************************************************************************************
-Name: Wonho Lim
+Name: Wonho Lim Type: School Project
 Description: This program prints 20 random values, between 0 and 99, and prints the values again in 
 numerical order.
 ****************************************************************************************************/
