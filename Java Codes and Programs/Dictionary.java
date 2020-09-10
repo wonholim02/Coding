@@ -4,7 +4,7 @@ Description: This program allows user to add, remove, change, get, display the w
 definition in dictionary as long as they want and then quit if they want to.
 *******************************************************************************************/
 
-//importing Arraylist and scanner to program 
+//importing Arraylist & scanner to program 
 import java.util.ArrayList;
 import java.util.Scanner;
 
